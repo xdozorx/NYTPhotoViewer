@@ -280,7 +280,7 @@ static const UIEdgeInsets NYTPhotosViewControllerCloseButtonImageInsets = {3, 0,
     }
 
     self.overlayView.captionViewRespectsSafeArea = captionViewRespectsSafeArea;
-    self.overlayView.captionView = captionView;
+//    self.overlayView.captionView = captionView;
 }
 
 - (void)doneButtonTapped:(id)sender {
